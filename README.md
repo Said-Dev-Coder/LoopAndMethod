@@ -1,7 +1,7 @@
 # Projet Ruby — Boucles & Méthodes
 
-**Auteur :** Said  
-**Formation :** TS4A
+**Auteur :** Groupe 3  
+**Formation :** ETP4A
 
 ## Structure du projet
 
